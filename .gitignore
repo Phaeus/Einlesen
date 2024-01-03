@@ -1,0 +1,11 @@
+# Ignoriere Kompilierungsdateien
+# Ausfuehrbare Dateien
+*.exe
+
+# Objektcode
+*.o
+
+# Makefile Dependencies
+*.d
+
+*.json
